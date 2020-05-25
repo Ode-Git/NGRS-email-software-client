@@ -1,13 +1,5 @@
 <?php
-/**
- * Command-line tool to begin Edu Mailer installation
- *
- * PHP version 7
- *
- *
- * @license  http://opensource.org/licenses/gpl-2.0.php GNU General Public License
- * @link     https://vufind.org/wiki/installation Wiki
- */
+
 
 require_once __DIR__ . '/vendor/autoload.php';
 
