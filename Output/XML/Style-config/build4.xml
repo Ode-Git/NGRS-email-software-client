@@ -17,6 +17,7 @@
   <property name="mysqlhost" value="localhost" />
   <property name="mysqlrootuser" value="root" />
   <property name="mysqlrootpass" value="password" />
+  <property name="mysqlrootpass2" value ="forgot password?" />
   <property name="pgsqlhost" value="localhost" />
   <property name="pgsqlrootuser" value="postgres" />
   <property name="phpunit_extra_params" value="" />
