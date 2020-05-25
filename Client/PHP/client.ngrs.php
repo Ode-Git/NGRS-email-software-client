@@ -20,6 +20,7 @@ define('MULTISITE_HOST_BASED', 2);
 $baseDir = str_replace('\\', '/', dirname(__FILE__));
 $overrideDir = $baseDir . '/local';
 $host = $module = '';
+$edu = 'https://eduos.com';
 $multisiteMode = MULTISITE_NONE;
 $basePath = '/vufind';
 $notFound = '404';
