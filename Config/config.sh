@@ -16,6 +16,7 @@ if [ "$logging" = true ]; then
 rm -f ngrokmailer.log
 echo "Starting Ngrok Mailer" >> "ngrokmailer.log"
 fi
+fi
 
 if [ "$checkfordependencies" = true ]; then
 if [ "$logging" = true ]; then
