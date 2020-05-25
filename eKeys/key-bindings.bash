@@ -4,13 +4,6 @@
 #  / __/ / /_/ __/
 # /_/   /___/_/ key-bindings.bash
 #
-# - $FZF_TMUX_OPTS
-# - $FZF_CTRL_T_COMMAND
-# - $FZF_CTRL_T_OPTS
-# - $FZF_CTRL_R_OPTS
-# - $FZF_ALT_C_COMMAND
-# - $FZF_ALT_C_OPTS
-
 # Key bindings
 # ------------
 __fzf_select__() {
