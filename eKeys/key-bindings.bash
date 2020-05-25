@@ -52,7 +52,7 @@ __fzf_history__() {
   fi
 }
 
-# Required to refresh the prompt after fzf
+# Requied to refresh the prompt after fzf
 bind -m emacs-standard '"\er": redraw-current-line'
 
 bind -m vi-command '"\C-z": emacs-editing-mode'
