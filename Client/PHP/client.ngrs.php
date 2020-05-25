@@ -22,7 +22,7 @@ $overrideDir = $baseDir . '/local';
 $host = $module = '';
 $multisiteMode = MULTISITE_NONE;
 $basePath = '/vufind';
-
+$notFound = '404';
 try {
     $opts = new Getopt(
         array(
