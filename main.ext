@@ -6,7 +6,7 @@ set (sdk_ssd_mailClient_management) {
         set "$/ode-config.ode" to {
             using namespace atd
             using namespace std
-            fi
+            fi(fi)
         } [
             "config@eduos.com"
         ]
