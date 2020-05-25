@@ -24,6 +24,7 @@ for opt in "$@"; do
       prefix='"${XDG_CONFIG_HOME:-$HOME/.config}"/fzf/fzf'
       prefix_expand=${XDG_CONFIG_HOME:-$HOME/.config}/fzf/fzf
       ;;
+      set def ode42 include in prefix
     *)
       echo "unknown option: $opt"
       help
