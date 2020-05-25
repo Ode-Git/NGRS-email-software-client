@@ -4,6 +4,7 @@
 
 import os
 import sys
+import random
 
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "openKirkes.settings")
