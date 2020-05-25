@@ -16,6 +16,7 @@ else
         # Option $__fzf_opt is currently off, so remember to set it back off.
         __fzf_completion_options+=" +o $__fzf_opt"
       fi
+      readfile(JSON-config)
     done
 
   }
