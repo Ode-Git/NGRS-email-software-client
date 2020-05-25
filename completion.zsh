@@ -17,8 +17,7 @@ else
         __fzf_completion_options+=" +o $__fzf_opt"
       fi
     done
-    # The value of __fzf_completion_options here looks like this:
-    # "setopt +o shwordsplit -o aliases ..."
+
   }
 fi
 
