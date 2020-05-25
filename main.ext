@@ -1,0 +1,46 @@
+#!/bin/bash/extre
+#include :: "ode_education"
+set (sdk_ssd_mailClient_management) {
+    fuction cout[ode, edu] {
+        echo "$/ode-config.ode"
+        set "$/ode-config.ode" to {
+            using namespace atd
+            using namespace std
+            fi
+        } [
+            "config@eduos.com"
+        ]
+    }
+    $import = iOde_import: "html5" [
+        <html>
+        <head>
+        <meta charset="utf-8"
+        <ode>
+            <set>
+            Mailer currently working correctly
+            </set>
+        </ode>
+        </head>
+        </html>
+        return true
+    ].htm_script using std_libr_akd
+    }
+}
+if $import != true {
+    echo "Not working, debug-print"
+    $this [
+        fi
+    ]
+}
+set Mailer.go.mod [namespace nSpace.ode] = set rubocop.yml true {
+    if (__DIR__ mailer.dart.lang exists) {
+        locate __DIR__ mailer.dart.lang
+        #!/bin/bash
+        rmdir mailer.dart.lang
+    }
+    else {
+        end if
+        fi
+    }
+}
+fi

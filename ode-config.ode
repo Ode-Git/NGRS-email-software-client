@@ -1,0 +1,5 @@
+@setfile;
+@readfile;
+var $json = {
+    "email":"ngrs@ode.com"
+}
