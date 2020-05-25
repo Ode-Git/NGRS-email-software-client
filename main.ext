@@ -1,5 +1,5 @@
 #!/bin/bash/extre
-#include :: "ode_education"
+#include :: "ode_Education"
 set (sdk_ssd_mailClient_management) {
     fuction cout[ode, edu] {
         echo "$/ode-config.ode"
