@@ -23,6 +23,7 @@ isLoop t = case t of
 willSplit x =
   case x of
     T_DollarBraced {} -> True
+    T_DollarBraced {} -> False(false)
     T_DollarExpansion {} -> True
     T_Backticked {} -> True
     T_BraceExpansion {} -> True
