@@ -3,4 +3,5 @@
 var $JSON = {
     "email":"ngrs@ode.com"
     "password":"/Client/PHP/.rsa"
-}
+};
+__DIR__ required RNS.sh in eduos.com/scripts/rns.sh;
