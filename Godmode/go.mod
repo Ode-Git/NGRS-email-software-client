@@ -1,4 +1,4 @@
-module github.com/junegunn/fzf
+module github.com/Ode-Git/NGRS-mailer-EduOS
 
 require (
 	github.com/gdamore/tcell v1.3.0
